@@ -35,7 +35,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/aula22-Sets.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Listas_Numeros_Dicionarios">
+  <component name="RunManager" selected="Python.Funcoes_Recursivas_2">
     <configuration name="Aula29_Criando_Modulo" type="PythonConfigurationType" factoryName="Python">
       <module name="Miranda" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,48 +57,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula41_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Miranda" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Apps\Python\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula41_main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Aula43_Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Miranda" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Apps\Python\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula43_Main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Aula44_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Miranda" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,6 +70,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula44_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Funcoes_Recursivas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Miranda" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Apps\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funcoes_Recursivas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Funcoes_Recursivas_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Miranda" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Apps\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funcoes_Recursivas_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Funcoes_Recursivas_2" />
+        <item itemvalue="Python.Funcoes_Recursivas" />
         <item itemvalue="Python.Listas_Numeros_Dicionarios" />
         <item itemvalue="Python.Listas_Numeros" />
         <item itemvalue="Python.Aula44_main" />
-        <item itemvalue="Python.Aula43_Main" />
-        <item itemvalue="Python.Aula41_main" />
       </list>
     </recent_temporary>
   </component>
@@ -253,21 +253,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="212" key="GridCell.Tab.0.bottom" timestamp="1589890879089">
+    <state width="1345" height="212" key="GridCell.Tab.0.bottom" timestamp="1589893594531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589890879089" />
-    <state width="1345" height="212" key="GridCell.Tab.0.center" timestamp="1589890879089">
+    <state width="1345" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589893594531" />
+    <state width="1345" height="212" key="GridCell.Tab.0.center" timestamp="1589893594531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="212" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589890879089" />
-    <state width="1345" height="212" key="GridCell.Tab.0.left" timestamp="1589890879089">
+    <state width="1345" height="212" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589893594531" />
+    <state width="1345" height="212" key="GridCell.Tab.0.left" timestamp="1589893594531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="212" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589890879089" />
-    <state width="1345" height="212" key="GridCell.Tab.0.right" timestamp="1589890879089">
+    <state width="1345" height="212" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589893594531" />
+    <state width="1345" height="212" key="GridCell.Tab.0.right" timestamp="1589893594531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="212" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589890879089" />
+    <state width="1345" height="212" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589893594531" />
   </component>
 </project>
